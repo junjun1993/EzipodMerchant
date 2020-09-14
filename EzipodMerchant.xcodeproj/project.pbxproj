@@ -9,21 +9,43 @@
 /* Begin PBXBuildFile section */
 		0AB13F59250E7B5A00681745 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0AB13F58250E7B5A00681745 /* AppDelegate.swift */; };
 		0AB13F5B250E7B5A00681745 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0AB13F5A250E7B5A00681745 /* SceneDelegate.swift */; };
-		0AB13F5D250E7B5A00681745 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0AB13F5C250E7B5A00681745 /* ViewController.swift */; };
-		0AB13F60250E7B5A00681745 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0AB13F5E250E7B5A00681745 /* Main.storyboard */; };
 		0AB13F62250E7B5E00681745 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0AB13F61250E7B5E00681745 /* Assets.xcassets */; };
 		0AB13F65250E7B5E00681745 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0AB13F63250E7B5E00681745 /* LaunchScreen.storyboard */; };
+		0AB13F6F250E7C8200681745 /* DashboardViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0AB13F6D250E7C8200681745 /* DashboardViewController.swift */; };
+		0AB13F70250E7C8200681745 /* DashboardViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 0AB13F6E250E7C8200681745 /* DashboardViewController.xib */; };
+		0AB13F7D250E7E7700681745 /* OpenSans-SemiBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 0AB13F72250E7E7700681745 /* OpenSans-SemiBold.ttf */; };
+		0AB13F7E250E7E7700681745 /* OpenSans-Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 0AB13F73250E7E7700681745 /* OpenSans-Light.ttf */; };
+		0AB13F7F250E7E7700681745 /* OpenSans-Italic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 0AB13F74250E7E7700681745 /* OpenSans-Italic.ttf */; };
+		0AB13F80250E7E7700681745 /* OpenSans-ExtraBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 0AB13F75250E7E7700681745 /* OpenSans-ExtraBold.ttf */; };
+		0AB13F81250E7E7700681745 /* OpenSans-LightItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 0AB13F76250E7E7700681745 /* OpenSans-LightItalic.ttf */; };
+		0AB13F82250E7E7700681745 /* OpenSans-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 0AB13F77250E7E7700681745 /* OpenSans-Bold.ttf */; };
+		0AB13F83250E7E7700681745 /* OpenSans-SemiBoldItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 0AB13F78250E7E7700681745 /* OpenSans-SemiBoldItalic.ttf */; };
+		0AB13F84250E7E7700681745 /* OpenSans-ExtraBoldItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 0AB13F79250E7E7700681745 /* OpenSans-ExtraBoldItalic.ttf */; };
+		0AB13F85250E7E7700681745 /* LICENSE.txt in Resources */ = {isa = PBXBuildFile; fileRef = 0AB13F7A250E7E7700681745 /* LICENSE.txt */; };
+		0AB13F86250E7E7700681745 /* OpenSans-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 0AB13F7B250E7E7700681745 /* OpenSans-Regular.ttf */; };
+		0AB13F87250E7E7700681745 /* OpenSans-BoldItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 0AB13F7C250E7E7700681745 /* OpenSans-BoldItalic.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		0AB13F55250E7B5A00681745 /* EzipodMerchant.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = EzipodMerchant.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		0AB13F58250E7B5A00681745 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		0AB13F5A250E7B5A00681745 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		0AB13F5C250E7B5A00681745 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		0AB13F5F250E7B5A00681745 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		0AB13F61250E7B5E00681745 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		0AB13F64250E7B5E00681745 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		0AB13F66250E7B5E00681745 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		0AB13F6D250E7C8200681745 /* DashboardViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DashboardViewController.swift; sourceTree = "<group>"; };
+		0AB13F6E250E7C8200681745 /* DashboardViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = DashboardViewController.xib; sourceTree = "<group>"; };
+		0AB13F72250E7E7700681745 /* OpenSans-SemiBold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "OpenSans-SemiBold.ttf"; sourceTree = "<group>"; };
+		0AB13F73250E7E7700681745 /* OpenSans-Light.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "OpenSans-Light.ttf"; sourceTree = "<group>"; };
+		0AB13F74250E7E7700681745 /* OpenSans-Italic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "OpenSans-Italic.ttf"; sourceTree = "<group>"; };
+		0AB13F75250E7E7700681745 /* OpenSans-ExtraBold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "OpenSans-ExtraBold.ttf"; sourceTree = "<group>"; };
+		0AB13F76250E7E7700681745 /* OpenSans-LightItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "OpenSans-LightItalic.ttf"; sourceTree = "<group>"; };
+		0AB13F77250E7E7700681745 /* OpenSans-Bold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "OpenSans-Bold.ttf"; sourceTree = "<group>"; };
+		0AB13F78250E7E7700681745 /* OpenSans-SemiBoldItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "OpenSans-SemiBoldItalic.ttf"; sourceTree = "<group>"; };
+		0AB13F79250E7E7700681745 /* OpenSans-ExtraBoldItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "OpenSans-ExtraBoldItalic.ttf"; sourceTree = "<group>"; };
+		0AB13F7A250E7E7700681745 /* LICENSE.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = LICENSE.txt; sourceTree = "<group>"; };
+		0AB13F7B250E7E7700681745 /* OpenSans-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "OpenSans-Regular.ttf"; sourceTree = "<group>"; };
+		0AB13F7C250E7E7700681745 /* OpenSans-BoldItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "OpenSans-BoldItalic.ttf"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,13 +80,40 @@
 			children = (
 				0AB13F58250E7B5A00681745 /* AppDelegate.swift */,
 				0AB13F5A250E7B5A00681745 /* SceneDelegate.swift */,
-				0AB13F5C250E7B5A00681745 /* ViewController.swift */,
-				0AB13F5E250E7B5A00681745 /* Main.storyboard */,
+				0AB13F6C250E7C6D00681745 /* Dashboard */,
 				0AB13F61250E7B5E00681745 /* Assets.xcassets */,
+				0AB13F71250E7E7700681745 /* Open_Sans */,
 				0AB13F63250E7B5E00681745 /* LaunchScreen.storyboard */,
 				0AB13F66250E7B5E00681745 /* Info.plist */,
 			);
 			path = EzipodMerchant;
+			sourceTree = "<group>";
+		};
+		0AB13F6C250E7C6D00681745 /* Dashboard */ = {
+			isa = PBXGroup;
+			children = (
+				0AB13F6D250E7C8200681745 /* DashboardViewController.swift */,
+				0AB13F6E250E7C8200681745 /* DashboardViewController.xib */,
+			);
+			path = Dashboard;
+			sourceTree = "<group>";
+		};
+		0AB13F71250E7E7700681745 /* Open_Sans */ = {
+			isa = PBXGroup;
+			children = (
+				0AB13F72250E7E7700681745 /* OpenSans-SemiBold.ttf */,
+				0AB13F73250E7E7700681745 /* OpenSans-Light.ttf */,
+				0AB13F74250E7E7700681745 /* OpenSans-Italic.ttf */,
+				0AB13F75250E7E7700681745 /* OpenSans-ExtraBold.ttf */,
+				0AB13F76250E7E7700681745 /* OpenSans-LightItalic.ttf */,
+				0AB13F77250E7E7700681745 /* OpenSans-Bold.ttf */,
+				0AB13F78250E7E7700681745 /* OpenSans-SemiBoldItalic.ttf */,
+				0AB13F79250E7E7700681745 /* OpenSans-ExtraBoldItalic.ttf */,
+				0AB13F7A250E7E7700681745 /* LICENSE.txt */,
+				0AB13F7B250E7E7700681745 /* OpenSans-Regular.ttf */,
+				0AB13F7C250E7E7700681745 /* OpenSans-BoldItalic.ttf */,
+			);
+			path = Open_Sans;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -125,9 +174,20 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0AB13F85250E7E7700681745 /* LICENSE.txt in Resources */,
+				0AB13F7D250E7E7700681745 /* OpenSans-SemiBold.ttf in Resources */,
 				0AB13F65250E7B5E00681745 /* LaunchScreen.storyboard in Resources */,
+				0AB13F80250E7E7700681745 /* OpenSans-ExtraBold.ttf in Resources */,
 				0AB13F62250E7B5E00681745 /* Assets.xcassets in Resources */,
-				0AB13F60250E7B5A00681745 /* Main.storyboard in Resources */,
+				0AB13F83250E7E7700681745 /* OpenSans-SemiBoldItalic.ttf in Resources */,
+				0AB13F7F250E7E7700681745 /* OpenSans-Italic.ttf in Resources */,
+				0AB13F82250E7E7700681745 /* OpenSans-Bold.ttf in Resources */,
+				0AB13F7E250E7E7700681745 /* OpenSans-Light.ttf in Resources */,
+				0AB13F81250E7E7700681745 /* OpenSans-LightItalic.ttf in Resources */,
+				0AB13F87250E7E7700681745 /* OpenSans-BoldItalic.ttf in Resources */,
+				0AB13F84250E7E7700681745 /* OpenSans-ExtraBoldItalic.ttf in Resources */,
+				0AB13F86250E7E7700681745 /* OpenSans-Regular.ttf in Resources */,
+				0AB13F70250E7C8200681745 /* DashboardViewController.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -138,8 +198,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				0AB13F5D250E7B5A00681745 /* ViewController.swift in Sources */,
 				0AB13F59250E7B5A00681745 /* AppDelegate.swift in Sources */,
+				0AB13F6F250E7C8200681745 /* DashboardViewController.swift in Sources */,
 				0AB13F5B250E7B5A00681745 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -147,14 +207,6 @@
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXVariantGroup section */
-		0AB13F5E250E7B5A00681745 /* Main.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				0AB13F5F250E7B5A00681745 /* Base */,
-			);
-			name = Main.storyboard;
-			sourceTree = "<group>";
-		};
 		0AB13F63250E7B5E00681745 /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
